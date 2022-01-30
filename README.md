@@ -20,4 +20,4 @@ There are 7 different sources of data:
   - **credit_card_balance:** monthly data about previous credit cards clients have had with Home Credit. Each row is one month of a credit card balance, and a single credit card can have many rows.
   - **credit_card_balance:** payment history for previous loans at Home Credit. There is one row for every made payment and one row for every missed payment.
  
-https://github.com/prathyand/HomeCredit-DefaultRisk-Prediction/blob/main/images/pd.png
+![alt text](https://github.com/prathyand/HomeCredit-DefaultRisk-Prediction/blob/main/images/pd.png)
