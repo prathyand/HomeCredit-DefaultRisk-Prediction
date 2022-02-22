@@ -33,5 +33,4 @@ We used pipelines to avoid the data leakage during preprocessing of numeric and 
 ### Results
 ![alt text](https://github.com/prathyand/HomeCredit-DefaultRisk-Prediction/blob/main/images/res.png)
 
-In this phase, we have improved on the Phase 2 submission by improving our EDA and implementing 
-additional feature engineering on all the secondary datasets. We also performed hyperparameter tuning on different models. We improved on the model evaluation criteria as accuracy was giving a false representation of the goodness of fit. We have used F1 score and AUC as our primary model evaluators. We also implemented the Pytorch Deep Learning model with 2 hidden layers. We also did Kaggle Submissions for the Random Forest, XGBoost and the Neural Network model.
+We performed EDA/feature engineering and hyperparameter tuning on different models. We improved on the model evaluation criteria as accuracy was giving a false representation of the goodness of fit. We have used F1 score and AUC as our primary model evaluators. We also implemented the Pytorch Deep Learning model with 2 hidden layers. We also did Kaggle Submissions for the Random Forest, XGBoost and the Neural Network model.
